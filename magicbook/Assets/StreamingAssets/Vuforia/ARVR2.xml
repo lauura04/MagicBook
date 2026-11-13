@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Stitch-Dream" size="1.000000 1.564155" />
+    <ImageTarget name="Stitch-Tired" size="1.000000 1.697443" />
+    <ImageTarget name="Stitch-Survived" size="1.000000 1.609354" />
+    <ImageTarget name="Stitch-Water2" size="1.000000 1.089317" />
+    <ImageTarget name="Stitch-Water1" size="1.000000 1.022017" />
+    <ImageTarget name="Stitch-Happy" size="1.000000 1.034260" />
+  </Tracking>
+</QCARConfig>
